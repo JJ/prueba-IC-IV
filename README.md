@@ -5,3 +5,7 @@ ejemplo [ZenHub](http://app.zenhub.com).
 
 Pues va más o menos así:
 ![Creando issues](img/issues.png) 
+
+![Issues avanzando](img/issues.png) 
+
+He borrado *Icebox*, hala. 
