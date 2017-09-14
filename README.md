@@ -13,3 +13,7 @@ He borrado *Icebox*, hala.
 Y he sacado el informe de Burndown:
 
 ![Issues avanzando](img/burndown.png) 
+
+## Probando otros sitios
+
+Con Waffle.io no he logrado ni importar un repo. Vamos a probar con [Zube](https://zube.io)
