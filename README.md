@@ -17,3 +17,5 @@ Y he sacado el informe de Burndown:
 ## Probando otros sitios
 
 Con Waffle.io no he logrado ni importar un repo. Vamos a probar con [Zube](https://zube.io)
+
+![Issues avanzando](img/zube.png) 
