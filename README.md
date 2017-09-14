@@ -1,2 +1,3 @@
-# prueba-IC-IV
-Repo de prueba para IC con IV
+# Prueba de integración continua con IV
+
+Repo para probar cosas de IV, como por ejemplo [ZenHub](http://app.zenhub.com)
