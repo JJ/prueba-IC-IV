@@ -19,3 +19,8 @@ Y he sacado el informe de Burndown:
 Con Waffle.io no he logrado ni importar un repo. Vamos a probar con [Zube](https://zube.io)
 
 ![Issues avanzando](img/zube.png) 
+
+## El proyecto estará escrito en Go
+
+Probablemente. Se almacenarán los datos inicialmente en texto plano,
+más adelante se usará elastic o similar, con los logs por otro lado. 
