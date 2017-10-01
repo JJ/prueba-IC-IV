@@ -2,14 +2,12 @@ package jjmerelo
 
 import io.circe.parser._
 
-class Hitos_IV  {
+class Hitos_IV(val hitos_file: String = "hitos.json")  {
 
-  private var _hitos = {}
+  private var lines = scala.io.Source.fromFile("hitos.json").mkString
+  private var _hitos = parse(lines )
 
-  class Hitos_IV( hitos_file: String = "hitos.json")  {
-    val lines = scala.io.Source.fromFile("hitos.json").mkString
-    _hitos = parse(lines )
-  }
+  def hitos = _hitos
 
 }
 
