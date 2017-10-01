@@ -1,5 +1,7 @@
 # Prueba de integración continua con IV
 
+[![Build Status](https://travis-ci.org/JJ/prueba-IC-IV.svg?branch=master)](https://travis-ci.org/JJ/prueba-IC-IV)
+
 Repo para probar cosas de IV, como por
 ejemplo [ZenHub](http://app.zenhub.com).
 
@@ -20,7 +22,7 @@ Con Waffle.io no he logrado ni importar un repo. Vamos a probar con [Zube](https
 
 ![Issues avanzando](img/zube.png) 
 
-## El proyecto estará escrito en Go
+## El proyecto estará escrito en Go o en Scala
 
 Probablemente. Se almacenarán los datos inicialmente en texto plano,
 más adelante se usará elastic o similar, con los logs por otro lado. 
