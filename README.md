@@ -6,6 +6,7 @@ Repo para probar cosas de IV, como por
 ejemplo [ZenHub](http://app.zenhub.com).
 
 Pues va más o menos así o de otra forma:
+
 ![Creando issues](img/issues.png) 
 
 ![Issues avanzando](img/issues.png) 
