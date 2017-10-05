@@ -10,8 +10,6 @@ Pues va más o menos así:
 
 ![Issues avanzando](img/issues.png) 
 
-He borrado *Icebox*, hala. 
-
 Y he sacado el informe de Burndown:
 
 ![Issues avanzando](img/burndown.png) 
